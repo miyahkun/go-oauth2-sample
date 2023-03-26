@@ -81,3 +81,5 @@ tags
 # End of https://www.toptal.com/developers/gitignore/api/macos,go,vim
 
 app.env
+tmp
+*.db
